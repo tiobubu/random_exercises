@@ -16,3 +16,5 @@ def jogo_adivinhacao():
 
 if __name__ == '__main__':
     jogo_adivinhacao()
+
+# alteração feita
